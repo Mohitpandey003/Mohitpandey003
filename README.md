@@ -1,41 +1,22 @@
 # Hi, I'm Mohit Raj 👋
 
-### Full Stack Developer | MERN Stack | Backend Engineering | AI Integration
+### Full Stack Developer | Computer Science Student
 
-I build scalable full-stack applications with modern web technologies, secure backend systems, and AI-powered solutions.
+I enjoy building clean, scalable, and user-focused web applications.  
+My main interests are backend development, system design, AI integration, and solving real-world problems through software.
+
+Currently pursuing B.Tech in Computer Science while working on full-stack projects using the MERN stack and exploring modern backend architecture.
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages
-- JavaScript (ES6+)
-- Java
-- Python
-- SQL
-
-### Frontend
 - React.js
-- Tailwind CSS
-- HTML5
-- CSS3
-
-### Backend
 - Node.js
 - Express.js
-- REST APIs
-- JWT Authentication
-
-### Databases
 - MongoDB
-- MySQL
-
-### Tools & Platforms
-- Git & GitHub
+- Python
 - Docker
-- Postman
-- VS Code
-- Jupyter Lab
 
 ---
 
@@ -69,12 +50,12 @@ Secure complaint management platform for educational institutions.
 #### Tech Stack
 React.js • Node.js • Express.js • MongoDB • JWT • bcrypt
 
-🔗 [GitHub](https://github.com/Mohitpandey003)
+🔗 [GitHub](https://github.com/Mohitpandey003/e-grievance-portal)
 
 ---
 
 ## 📚 Currently Learning
-- Advanced Backend Development
+- Backend Development
 - System Design
 - Docker & DevOps
 - Scalable API Architecture
@@ -85,7 +66,6 @@ React.js • Node.js • Express.js • MongoDB • JWT • bcrypt
 - Full Stack Development
 - Backend Engineering
 - AI Integration
-- Cybersecurity
 - Problem Solving
 
 ---
@@ -98,4 +78,4 @@ React.js • Node.js • Express.js • MongoDB • JWT • bcrypt
 
 ---
 
-⭐ Passionate about building impactful software and continuously improving engineering skills.
+⭐ Always learning, building, and improving.
